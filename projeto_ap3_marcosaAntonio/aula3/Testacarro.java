@@ -10,7 +10,7 @@ public class Testacarro {
         ArrayList<Carro> carros = new ArrayList<>();
 
         for (int i = 0; i < 4; i++) {
-            System.out.println("Cadastro do Carro Popular #" + (i + 1));
+            System.out.println("Cadastro do Carro  #" + (i + 1));
             System.out.print("Nome: ");
             String nome = scanner.nextLine();
             
@@ -27,7 +27,7 @@ public class Testacarro {
 
         scanner.close();
 
-        System.out.println("Carros populares cadastrados:");
+        System.out.println("Carros cadastrados:");
         for (Carro carro : carros) {
             System.out.println("Nome: " + carro.getNome() + ", Modelo: " + carro.getModelo() + ", Ano: " + carro.getAno());
         }
