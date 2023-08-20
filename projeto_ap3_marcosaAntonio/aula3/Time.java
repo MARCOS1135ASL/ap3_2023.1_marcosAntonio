@@ -11,6 +11,9 @@ public class Time {
         this.nomeTime = nomeTime;
         this.jogadores = new ArrayList<>(11);
     }
+    /**
+     * 
+     */
     public void cadastrarJogador() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nome do jogador: ");
@@ -29,12 +32,12 @@ public class Time {
 
         scanner.nextLine(); // Limpar o buffer
 
-        public void listarJogadores() {
+        public void cadastrarJogadores() {
             System.out.println("Jogadores do time " + nomeTime + ":");
             for (Jogador jogador : jogadores) {
                 System.out.println("Código: " + jogador.getCodigo() + ", Nome: " + jogador.getNome() +
                                    ", Idade: " + jogador.getIdade() + ", Altura: " + jogador.getAltura());
             }
-        }
+    
     }
 }
