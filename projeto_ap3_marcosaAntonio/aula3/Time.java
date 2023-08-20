@@ -7,15 +7,15 @@ import java.util.Scanner;
 public class Time {
     private String nomeTime;
     private ArrayList<Jogador> jogadores;
+
     public Time(String nomeTime) {
         this.nomeTime = nomeTime;
         this.jogadores = new ArrayList<>(11);
     }
-    /**
-     * 
-     */
+
     public void cadastrarJogador() {
         Scanner scanner = new Scanner(System.in);
+
         System.out.print("Nome do jogador: ");
         String nome = scanner.nextLine();
 
@@ -31,16 +31,18 @@ public class Time {
         System.out.println("Jogador cadastrado com sucesso!\n");
 
         scanner.nextLine(); // Limpar o buffer
-
-        public void cadastrarJogadores() {
-            System.out.println("Jogadores do time " + nomeTime + ":");
-            for (Jogador jogador : jogadores) {
-                System.out.println("Código: " + jogador.getCodigo() + ", Nome: " + jogador.getNome() +
-                                   ", Idade: " + jogador.getIdade() + ", Altura: " + jogador.getAltura());
-            }
-    
     }
-        public String getNomeTime() {
-            return null;
+
+    public void listarJogadores() {
+        System.out.println("Jogadores do time " + nomeTime + ":");
+        for (Jogador jogador : jogadores) {
+            System.out.println("Código: " + jogador.getCodigo() + ", Nome: " + jogador.getNome() +
+                               ", Idade: " + jogador.getIdade() + ", Altura: " + jogador.getAltura());
         }
+    }
+
+    public String getNomeTime() {
+        return null;
+    }
 }
+
