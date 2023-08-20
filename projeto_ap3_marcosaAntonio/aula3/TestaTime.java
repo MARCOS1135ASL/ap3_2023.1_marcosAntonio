@@ -2,8 +2,6 @@ package projeto_ap3_marcosaAntonio.aula3;
 
 import java.util.Scanner;
 
-import javax.print.DocFlavor.STRING;
-
 public class TestaTime {
     private static final String Scanner = null;
 
@@ -23,16 +21,15 @@ public class TestaTime {
 
         System.out.println("/informacoes do time e jogadores:");
        
-        time1.listarJogadores();
-        time2.listarJogadores();
+        time1.cadastrarJogadores();
+        time2.cadastrarJogadores();
 
         scanner.close();
 
     }
     public static void cadastrarJogadoresNoTime(Time time){
-        Scanner scanner = new Scanner (System.in);
         for(int i= 0 ; i < 11; i++){
-            System.out.println("Cadastrandon jogador#"+ (i + 1) + " para o time " + time.getNomeTime());
+            System.out.println("Cadastra jogador#"+ (i + 1) + " para o time " + time.getNomeTime());
             time.cadastrarJogador();
         }
 

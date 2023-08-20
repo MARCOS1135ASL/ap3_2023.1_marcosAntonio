@@ -40,4 +40,7 @@ public class Time {
             }
     
     }
+        public String getNomeTime() {
+            return null;
+        }
 }
