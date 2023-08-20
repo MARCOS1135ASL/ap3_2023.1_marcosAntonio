@@ -1,4 +1,9 @@
 package projeto_ap3_marcosaAntonio.aula3;
+//Crie uma classe chamada Produto com um atributo descricao de visibilidade private. 
+//Crie um construtor público para a classe Produto que aceite um parâmetro descricao para inicializar o atributo.
+// Forneça um método público chamado exibirDescricao para exibir a descrição do produto.
+
+
 
 public class Produto {
     private String descricao;
