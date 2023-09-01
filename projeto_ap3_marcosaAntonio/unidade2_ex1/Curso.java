@@ -34,4 +34,8 @@ public class Curso {
 
         return cursoInfo.toString();
     }
+
+    public String getNome() {
+        return null;
+    }
 }

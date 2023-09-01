@@ -30,7 +30,7 @@ public class Disciplina {
 
     public void setCargaHoraria(int cargaHoraria) {
         if (cargaHoraria < 0) {
-            throw new IllegalArgumentException("Carga horária invalida para a disciplina: " + nomeDisciplina);
+            throw new IllegalArgumentException(" erro,Carga horária invalida para a disciplina: " + nomeDisciplina);
         }
         this.cargaHoraria = cargaHoraria;
     }
