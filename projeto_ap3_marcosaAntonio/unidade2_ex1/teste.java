@@ -13,6 +13,6 @@ public class teste {
         empresa.adicionarFuncionario(funcionario3);
 
         double totalSalarios = empresa.calcularTotalSalarios();
-        System.out.println("Total de salários da empresa: " + totalSalarios);
+        System.out.println("Total de salários da empresa JavaDevelopers: " + totalSalarios);
     }
 }
