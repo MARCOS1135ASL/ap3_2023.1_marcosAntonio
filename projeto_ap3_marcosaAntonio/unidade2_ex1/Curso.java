@@ -38,4 +38,8 @@ public class Curso {
     public String getNome() {
         return null;
     }
+
+    public List<Disciplina> pesquisarDisciplinasPorCargaHoraria(int i) {
+        return null;
+    }
 }
