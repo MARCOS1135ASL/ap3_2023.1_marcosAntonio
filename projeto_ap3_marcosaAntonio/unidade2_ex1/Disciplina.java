@@ -16,6 +16,9 @@ public class Disciplina {
         setCargaHoraria(cargaHoraria);
     }
 
+    public Disciplina(String string) {
+    }
+
     public String getNomeDisciplina() {
         return nomeDisciplina;
     }
