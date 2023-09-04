@@ -10,6 +10,8 @@ package projeto_ap3_marcosaAntonio.unidade2_ex1;
 import java.util.ArrayList;
 import java.util.List;
 
+import projeto_ap3_marcosaAntonio.unidade2_ex1.exe2.Funcionario;
+
 public class Empresa {
     private List<Funcionario> funcionarios;
     public Empresa(String nomeEmpresa) {
