@@ -1,6 +1,6 @@
-package projeto_ap3_marcosaAntonio.unidade2_ex1.exe2;
+package projeto_ap3_marcosaAntonio.unidade2.exe2;
 
-import projeto_ap3_marcosaAntonio.unidade2_ex1.Empresa;
+import projeto_ap3_marcosaAntonio.unidade2.ex1.Empresa;
 
 public class teste {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package projeto_ap3_marcosaAntonio.unidade2_ex1.exe2;
+package projeto_ap3_marcosaAntonio.unidade2.exe2;
 
 public class Funcionario {
     private String name;

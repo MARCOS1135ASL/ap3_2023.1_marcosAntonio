@@ -1,4 +1,4 @@
-package projeto_ap3_marcosaAntonio.unidade2_ex1;
+package projeto_ap3_marcosaAntonio.unidade2.ex1;
 
 
 import java.util.ArrayList;
@@ -41,5 +41,9 @@ public class Curso {
 
     public List<Disciplina> pesquisarDisciplinasPorCargaHoraria(int i) {
         return null;
+    }
+
+    public int getAlunos() {
+        return 0;
     }
 }

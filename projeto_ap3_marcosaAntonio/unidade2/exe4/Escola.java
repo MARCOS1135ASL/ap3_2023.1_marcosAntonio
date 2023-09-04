@@ -1,6 +1,6 @@
-package projeto_ap3_marcosaAntonio.unidade2_ex1.exe4;
+package projeto_ap3_marcosaAntonio.unidade2.exe4;
 
-import projeto_ap3_marcosaAntonio.unidade2_ex1.Disciplina;
+import projeto_ap3_marcosaAntonio.unidade2.ex1.Disciplina;
 
 
 public class Escola {

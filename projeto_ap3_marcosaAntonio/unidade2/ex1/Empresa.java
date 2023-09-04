@@ -1,4 +1,4 @@
-package projeto_ap3_marcosaAntonio.unidade2_ex1;
+package projeto_ap3_marcosaAntonio.unidade2.ex1;
 
 // Crie uma classe Empresa que contenha atributos como nomeEmpresa e uma lista de funcionários. 
 // Encapsule adequadamente esses atributos. Implemente um método adicionarFuncionario(Funcionario funcionario) 
@@ -10,7 +10,7 @@ package projeto_ap3_marcosaAntonio.unidade2_ex1;
 import java.util.ArrayList;
 import java.util.List;
 
-import projeto_ap3_marcosaAntonio.unidade2_ex1.exe2.Funcionario;
+import projeto_ap3_marcosaAntonio.unidade2.exe2.Funcionario;
 
 public class Empresa {
     private List<Funcionario> funcionarios;

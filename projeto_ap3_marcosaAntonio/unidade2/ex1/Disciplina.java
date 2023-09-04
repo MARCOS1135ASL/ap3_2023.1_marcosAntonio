@@ -1,4 +1,4 @@
-package projeto_ap3_marcosaAntonio.unidade2_ex1;
+package projeto_ap3_marcosaAntonio.unidade2.ex1;
 
 // Crie uma classe Disciplina com os atributos nomeDisciplina e cargaHoraria. 
 // Encapsule corretamente os atributos. A classe Curso deve conter 

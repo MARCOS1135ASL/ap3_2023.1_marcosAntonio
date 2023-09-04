@@ -1,5 +1,5 @@
 // agora iremos  cria a classe main para testa as funcionalidades do nosso programa 
-package projeto_ap3_marcosaAntonio.unidade2_ex1;
+package projeto_ap3_marcosaAntonio.unidade2.ex1;
 
 public class Main {
     public static void main(String[] args) {
