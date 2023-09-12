@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 package projeto_ap3_marcosaAntonio.aula1;
 //Crie uma classe chamada "Aluno" que tenha os atributos nome, matrícula e nota.
 //Implemente um método para calcular se o aluno foi aprovado (média maior ou igual a 7.0) ou reprovado
@@ -113,5 +112,3 @@ public class Aluno {
         return "Aluno [nome=" + nome + ", matricula=" + matricula + ", nota=" + nota + "]";
     }
 }
-
->>>>>>> Stashed changes

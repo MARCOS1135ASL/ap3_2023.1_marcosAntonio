@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 package projeto_ap3_marcosaAntonio.aula1;
 //Crie uma classe chamada "Carro" que tenha os atributos marca, modelo e ano. 
 // Sobrescreva o método toString() para exibir as informações completas do carro.
@@ -106,4 +105,3 @@ public class Carro {
     }
 }
 
->>>>>>> Stashed changes

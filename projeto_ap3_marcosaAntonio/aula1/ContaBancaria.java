@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 package projeto_ap3_marcosaAntonio.aula1;
 //Crie uma classe chamada "ContaBancaria" que tenha os atributos
 // número da conta, nome do titular e saldo. Implemente métodos para depositar, sacar e verificar o saldo da conta.
@@ -106,4 +105,3 @@ public class ContaBancaria {
         return "ContaBancaria [Número da Conta: " + numeroConta + ", Titular: " + nomeTitular + ", Saldo: " + saldo + "]";
     }
 }
->>>>>>> Stashed changes

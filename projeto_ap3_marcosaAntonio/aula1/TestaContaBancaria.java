@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 package projeto_ap3_marcosaAntonio.aula1;
 
 public class TestaContaBancaria {
@@ -46,4 +45,3 @@ public class TestaContaBancaria {
         System.out.println(conta3.toString());
     }
 }
->>>>>>> Stashed changes

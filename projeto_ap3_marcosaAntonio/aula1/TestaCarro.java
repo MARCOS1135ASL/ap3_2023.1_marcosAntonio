@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 package projeto_ap3_marcosaAntonio.aula1;
 // classe crida para testa carro.
 
@@ -40,4 +40,3 @@ public class TestaCarro {
     }
 }
 
->>>>>>> Stashed changes

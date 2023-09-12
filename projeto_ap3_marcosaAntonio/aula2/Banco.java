@@ -1,7 +1,8 @@
 package projeto_ap3_marcosaAntonio.aula2;
- // Código Secreto: 10094890715
-  //Código secreto do aluno.
- 
+// Código Secreto: 10094890715
+
+//Código secreto do aluno.
+
 import java.util.LinkedList;
 
 public class Banco {
@@ -25,4 +26,3 @@ public class Banco {
         }
     }
 }
-
