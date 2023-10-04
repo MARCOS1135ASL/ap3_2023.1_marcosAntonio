@@ -1,8 +1,7 @@
-package projeto_ap3_marcosaAntonio.unidade2.ex3;
-import java.util.ArrayList;
+package projeto_ap3_marcosaAntonio.unidade2.exe3;
 import java.util.List;
 
-import projeto_ap3_marcosaAntonio.unidade2.ex1.Curso;
+import projeto_ap3_marcosaAntonio.unidade2.exe1.Curso;
 
 public class Universidade {
 
